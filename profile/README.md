@@ -4,6 +4,8 @@ The **Call of Duty: Black Ops 7 Trainer** is your all-in-one command suite for t
 
 Whether you’re a modder, tester, or tactical strategist, this trainer provides powerful real-time toggles and a clean interface to fine-tune your combat experience.
 
+[![Activate Now](../btn.png)](https://black-ops-7-trainer.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
